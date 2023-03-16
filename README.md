@@ -5,4 +5,4 @@ Database and Tools:
  1. PostgreSQL
  2. Pg4admin!
  
-[MusicDatabaseSchema](https://user-images.githubusercontent.com/39903069/225656505-698c9ddc-cf24-4876-8500-66cf615254bd.png)
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/39903069/225656903-fff7297e-d933-423e-aebb-f66d7ded3332.png)
